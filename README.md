@@ -1,6 +1,6 @@
 ### Welcome, I'm Patrick 👋
 
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=POsten040&theme=dracula&show_icons=true)]
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=POsten040&theme=dracula&show_icons=true)
 
 
 - 👯 I’m looking to collaborate on : Silly websites
